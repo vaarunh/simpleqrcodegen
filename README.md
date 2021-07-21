@@ -1,4 +1,4 @@
-# Simple QR Code Generator
+# QR Code Generator
 A Simple QR Code Generator built using qrcode and image libs.
 
 ## Libraries
@@ -11,5 +11,7 @@ A Simple QR Code Generator built using qrcode and image libs.
 
 ## Screenshots
 ![](https://github.com/varunherlekar/simpleqrcodegen/blob/main/Screenshots/Screenshot%20(1).png?raw=true)
+
 ![](https://github.com/varunherlekar/simpleqrcodegen/blob/main/Screenshots/Screenshot%20(2).png?raw=true)
+
 ![](https://github.com/varunherlekar/simpleqrcodegen/blob/main/Screenshots/Screenshot%20(3).png?raw=true)
